@@ -25,8 +25,8 @@ A high-speed, multi-threaded Telegram channel and files downloader designed spec
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Vivek0510Yadav/telegram-files/videos-downloader.git
-cd telegram-files/videos-downloader
+git clone https://github.com/vivek0510yadav/telegram-channel-downloader-.git
+cd telegram-channel-downloader-
 ```
 
 ### 2. Run the Downloader
@@ -76,6 +76,11 @@ Lectures/
 - Your Telegram login session is stored strictly on your local machine (`.tdl/` folder).
 - No credentials, tokens, or downloaded media are uploaded or shared.
 - The `.gitignore` file is pre-configured to ensure no personal session data or downloaded media can ever be accidentally committed to git.
+
+---
+
+## 🏷️ Keywords & Search Tags
+`telegram-channel-downloader` • `telegram-video-downloader` • `telegram-lecture-downloader` • `batch-download-telegram` • `download-telegram-offline` • `telegram-course-downloader` • `multi-threaded-telegram-downloader` • `telegram-to-offline` • `tdl-downloader` • `vlc-playlist-generator`
 
 ---
 
