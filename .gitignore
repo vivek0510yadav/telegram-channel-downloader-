@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Telegram session and user data (CRITICAL FOR PRIVACY)
+.tdl/
+*.session
+*.session-journal
+*.dat
+
+# Channel export metadata (User channel lists & IDs)
+*.json
+my_channels.txt
+channel_export.json
+test_export.json
+
+# Downloaded files and media
+Lectures/
+downloads/
+test_dl/
+*.tmp
+*.part
+*.m3u
+
+# Large binaries (automatically downloaded on first run by Python)
+tdl.exe
+
+# OS / Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store

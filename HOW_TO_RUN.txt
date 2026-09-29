@@ -1,0 +1,41 @@
+================================================================================
+   FASTEST TELEGRAM CHANNEL DOWNLOADER FOR OFFLINE ACCESS
+================================================================================
+
+Everything is already setup in this folder: E:\teleram dowoad\
+
+--------------------------------------------------------------------------------
+HOW TO START DOWNLOADING (EASIEST & FASTEST METHOD):
+--------------------------------------------------------------------------------
+
+1. Double-click on:
+   START_DOWNLOAD.bat
+
+2. Telegram Login (First time only):
+   - Option 1 (Recommended): Scan the QR code using your Telegram mobile app:
+     Go to Telegram on Phone -> Settings -> Devices -> Link Desktop Device.
+     Point your camera at the QR code on your PC screen. You will be logged in instantly!
+   - Option 2: Enter your phone number with country code (e.g. +91...) and enter the code sent to your Telegram app.
+
+3. Enter your Channel / Group link:
+   - Example: @channel_username
+   - Or: https://t.me/channel_username
+   - Or private invite link: https://t.me/+AbCdEfGh...
+
+4. Choose download type:
+   - 1 = All Lectures (Videos, PDFs, Notes, Audios)
+   - 2 = Only Videos
+   - 3 = Only PDFs / Notes
+
+5. Where are the files saved?
+   All downloaded files will be saved in:
+   E:\teleram dowoad\Lectures\
+
+   Once downloaded, you can play videos in VLC player and open PDFs without ANY internet connection!
+
+--------------------------------------------------------------------------------
+KEY ADVANTAGES FOR LIMITED TIME / EXPIRING WIFI:
+--------------------------------------------------------------------------------
+- ⚡ 16 Parallel Threads: Saturates your maximum Wi-Fi download speed (10x faster than standard Telegram).
+- 🔄 Auto-Resume: If your Wi-Fi flickers or gets disconnected, it automatically resumes from where it paused without redownloading files.
+================================================================================
