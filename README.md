@@ -5,17 +5,17 @@
 [![Speed: 16x Threads](https://img.shields.io/badge/Speed-16x%20Multi--Threaded-brightgreen.svg)]()
 [![Auto-Resume](https://img.shields.io/badge/Auto--Resume-Enabled-success.svg)]()
 
-A high-speed, multi-threaded Telegram channel and lecture downloader designed specifically for students and offline study. Saturates your full internet connection and automatically organizes lectures into sequential chronological order (`001_`, `002_`, `003_`...) with 1-click offline video playlists.
+A high-speed, multi-threaded Telegram channel and files downloader designed specifically for students and offline study. Saturates your full internet connection and automatically organizes files/videos into sequential chronological order (`001_`, `002_`, `003_`...) with 1-click offline video playlists.
 
 ---
 
 ## ✨ Features
 
 - ⚡ **16 Parallel Threads (Max Speed)**: Squeezes maximum download speed from Telegram's MTProto DC servers (up to 10x faster than standard Telegram client).
-- 🔢 **Automatic Chronological Numbering**: Telegram channels often have unnumbered or randomly named lecture files. This tool tracks the exact Telegram upload timeline and prefixes files sequentially (`001_Lecture.mp4`, `002_Lecture.mp4`, etc.).
-- 🎵 **1-Click Offline Playlist (`.m3u`)**: Automatically generates a VLC-compatible playlist so you can play all lectures in sequence offline without touching your keyboard.
+- 🔢 **Automatic Chronological Numbering**: Telegram channels often have unnumbered or randomly named files/videos files. This tool tracks the exact Telegram upload timeline and prefixes files sequentially (`001_files/videos.mp4`, `002_files/videos.mp4`, etc.).
+- 🎵 **1-Click Offline Playlist (`.m3u`)**: Automatically generates a VLC-compatible playlist so you can play all files/videos in sequence offline without touching your keyboard.
 - 🔄 **Auto-Resume on Disconnect**: If your Wi-Fi flickers or drops, it automatically pauses and resumes without re-downloading finished chunks or files.
-- 🔍 **Interactive Channel Finder**: Search through your joined channels/groups by typing keywords (e.g. `upsc`, `vision`, `lectures`), or paste message links directly.
+- 🔍 **Interactive Channel Finder**: Search through your joined channels/groups by typing keywords (e.g. `upsc`, `vision`, `files/videos`), or paste message links directly.
 - 🎯 **Filter by Media Type**: Choose between downloading **Everything**, **Only Videos** (`.mp4`, `.mkv`), or **Only PDFs & Notes** (`.pdf`, `.docx`).
 - 📦 **Zero-Config Engine**: Automatically fetches and configures the required multi-threaded core engine (`tdl`) on first run.
 
@@ -25,8 +25,8 @@ A high-speed, multi-threaded Telegram channel and lecture downloader designed sp
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Vivek0510Yadav/telegram-lecture-downloader.git
-cd telegram-lecture-downloader
+git clone https://github.com/Vivek0510Yadav/telegram-files/videos-downloader.git
+cd telegram-files/videos-downloader
 ```
 
 ### 2. Run the Downloader
