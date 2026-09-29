@@ -6,7 +6,7 @@ echo   Publishing to GitHub (Vivek0510Yadav)
 echo ===================================================
 echo.
 git remote remove origin 2>nul
-git remote add origin https://github.com/Vivek0510Yadav/telegram-lecture-downloader.git
+git remote add origin https://github.com/vivek0510yadav/telegram-channel-downloader-.git
 git branch -M main
 echo Pushing branch 'main' to GitHub...
 git push -u origin main
@@ -14,7 +14,7 @@ echo.
 if %ERRORLEVEL% EQU 0 (
     echo ===================================================
     echo   SUCCESS! Your project is published on GitHub:
-    echo   https://github.com/Vivek0510Yadav/telegram-lecture-downloader
+    echo   https://github.com/vivek0510yadav/telegram-channel-downloader-
     echo ===================================================
 ) else (
     echo.
